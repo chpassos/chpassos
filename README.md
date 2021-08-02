@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey! My name is Carlos 👋
 
-<!--
-**chpassos/chpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I have a BS in Biological Sciences 
+- 📖 I'm taking a master's degree at University of São Paulo
+- 🔭 Currently working on Population Genetics, focusing on admixed populations
+- 🔑 Open Data Science and Open Knowledge enthusiast
+- 💬 Ask me about R, Data management and dataviz
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/chpassos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chpassos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chpassos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
